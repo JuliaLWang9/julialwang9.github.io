@@ -22,5 +22,6 @@ Some example screenshots:
 
 ## Activity 4: added map with places
 ![Alt text](image-8.png)
+![Alt text](image-11.png)
 ![Alt text](image-9.png)
 ![Alt text](image-10.png)
