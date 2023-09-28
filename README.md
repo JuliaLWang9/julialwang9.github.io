@@ -19,3 +19,8 @@ Some example screenshots:
 
 ## Activity 3: changed colors
 ![Alt text](image-7.png)
+
+## Activity 4: added map with places
+![Alt text](image-8.png)
+![Alt text](image-9.png)
+![Alt text](image-10.png)
