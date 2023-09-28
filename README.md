@@ -8,10 +8,13 @@ https://github.com/varadbhogayata/varadbhogayata.github.io.
 ## Activity 1
 ![Alt text](image.png)
 
-## Activity 2
+## Activity 2: adding my information
 Some example screenshots:
+![Alt text](image-6.png)
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
 ![Alt text](image-4.png)
 ![Alt text](image-5.png)
+
+## Activity 3: adding maps
