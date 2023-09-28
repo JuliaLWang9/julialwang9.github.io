@@ -17,4 +17,5 @@ Some example screenshots:
 ![Alt text](image-4.png)
 ![Alt text](image-5.png)
 
-## Activity 3: adding maps
+## Activity 3: changed colors
+![Alt text](image-7.png)
